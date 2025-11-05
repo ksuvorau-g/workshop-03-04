@@ -49,11 +49,9 @@ so that the development team can implement features with minimal ambiguity and r
 ## Constraints
 - Keep changes non-disruptive; do not modify source code in this task.
 
-## Suggested Next Steps / Tasks (for dev planning)
-1. BA: Finalize requirements and store in `docs/requirements/ba-analyze-raw-requirement.md`.
-2. Backend: Implement API endpoints described in requirements (task CRUD, status, filtering).
-3. Frontend: Create React components and pages per UI requirements (task list, editor, filters).
-4. QA: Create test cases matching acceptance criteria.
+## Output
+BA: Finalize requirements and store Deliverables in `docs/` folder as a separate files. Also create an index file with links to these files.
+
 
 ## Risks
 - Raw requirement file may not contain enough detail; deliverable must explicitly list questions and assumptions.
