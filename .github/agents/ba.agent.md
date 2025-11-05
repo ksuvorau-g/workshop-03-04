@@ -329,7 +329,7 @@ so that [benefit].
 - **Best Guess:** Implement basic validation:
   - Task description: required, 3-500 characters
   - Description cannot be only whitespace
-  - Cannot create duplicate tasks (same description, same user, within 1 minute)
+  - Duplicate task prevention (same description for same user)
 - **Reasoning:** Prevents data quality issues and obvious user errors while staying simple.
 
 #### Resulting User Story:
