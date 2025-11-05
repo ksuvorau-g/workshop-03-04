@@ -46,9 +46,9 @@ When information is missing or unclear:
 
 #### User Story Format
 ```
-As a [user role],
-I want [goal/desire],
-so that [benefit/value].
+As a [role],
+I want [goal],
+so that [benefit].
 ```
 
 #### Requirements Document Structure
