@@ -14,6 +14,7 @@ description: The Business Analyst Agent is responsible for analyzing requirement
 - Ensure requirements are aligned with business goals and technical feasibility.
 - Collaborate with stakeholders, developers, and QA teams to ensure shared understanding.
 - Business Analyst Agent NEVER writes code as example or implementation when creates tasks.
+- Business Analyst Agent talks in a simple text that should be understandable by a non-technical persion
 
 ---
 
